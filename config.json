@@ -1,0 +1,45 @@
+{
+  "whisper": {
+    "model_size": "base",
+    "language": "en",
+    "task": "transcribe",
+    "temperature": 0.0,
+    "best_of": 5,
+    "beam_size": 5
+  },
+  "audio_processing": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "normalize_audio": true,
+    "target_dbfs": -20.0
+  },
+  "sentence_detection": {
+    "sentence_endings": "[.!?។့။]",
+    "min_sentence_duration": 0.5,
+    "max_sentence_duration": 30.0,
+    "merge_short_sentences": false,
+    "short_sentence_threshold": 1.0
+  },
+  "vad": {
+    "enabled": false,
+    "min_silence_len": 700,
+    "silence_thresh": -40,
+    "keep_silence": 200
+  },
+  "output": {
+    "output_dir": "output",
+    "export_formats": ["json", "srt", "txt"],
+    "audio_format": "wav",
+    "audio_bitrate": "192k",
+    "create_sentence_files": true
+  },
+  "youtube": {
+    "audio_quality": "bestaudio",
+    "extract_format": "wav"
+  },
+  "batch_processing": {
+    "max_concurrent": 1,
+    "file_extensions": [".mp3", ".wav", ".m4a", ".flac"],
+    "skip_errors": true
+  }
+}

@@ -1,0 +1,6 @@
+openai-whisper
+pydub
+yt-dlp
+torch
+torchaudio
+numpy

@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "text": "The bear and the bee.",
+    "start_time": 0.0,
+    "end_time": 2.04,
+    "duration": 2.04
+  },
+  {
+    "id": 2,
+    "text": "A version of the tale by thefablecottage .com",
+    "start_time": 4.49,
+    "end_time": 7.86,
+    "duration": 3.37
+  },
+  {
+    "id": 3,
+    "text": "Everybody knows that bears love honey.",
+    "start_time": 10.61,
+    "end_time": 13.34,
+    "duration": 2.73
+  },
+  {
+    "id": 4,
+    "text": "One day Mr.",
+    "start_time": 14.28,
+    "end_time": 15.88,
+    "duration": 1.6
+  },
+  {
+    "id": 5,
+    "text": "Bear looks in his cupboard and he can't find any honey.",
+    "start_time": 16.04,
+    "end_time": 20.86,
+    "duration": 4.82
+  },
+  {
+    "id": 6,
+    "text": "Oh no, no honey, he says.",
+    "start_time": 21.88,
+    "end_time": 25.98,
+    "duration": 4.1
+  },
+  {
+    "id": 7,
+    "text": "So he goes into the forest to find some.",
+    "start_time": 25.98,
+    "end_time": 29.92,
+    "duration": 3.94
+  },
+  {
+    "id": 8,
+    "text": "He sees a beehive in a tree.",
+    "start_time": 32.94,
+    "end_time": 35.48,
+    "duration": 2.54
+  },
+  {
+    "id": 9,
+    "text": "He smells the honey.",
+    "start_time": 36.92,
+    "end_time": 38.42,
+    "duration": 1.5
+  },
+  {
+    "id": 10,
+    "text": "Mmm, honey.",
+    "start_time": 39.5,
+    "end_time": 40.86,
+    "duration": 1.36
+  },
+  {
+    "id": 11,
+    "text": "He sticks his paw into the beehive and A bee flies out.",
+    "start_time": 42.16,
+    "end_time": 49.68,
+    "duration": 7.52
+  },
+  {
+    "id": 12,
+    "text": "Hey bear, go away.",
+    "start_time": 50.66,
+    "end_time": 52.54,
+    "duration": 1.88
+  },
+  {
+    "id": 13,
+    "text": "Says the bee.",
+    "start_time": 53.08,
+    "end_time": 53.94,
+    "duration": 0.86
+  },
+  {
+    "id": 14,
+    "text": "This is not your honey.",
+    "start_time": 54.6,
+    "end_time": 56.38,
+    "duration": 1.78
+  },
+  {
+    "id": 15,
+    "text": "Mr.",
+    "start_time": 57.48,
+    "end_time": 58.02,
+    "duration": 0.54
+  },
+  {
+    "id": 16,
+    "text": "Bear is annoyed.",
+    "start_time": 58.24,
+    "end_time": 59.02,
+    "duration": 0.78
+  },
+  {
+    "id": 17,
+    "text": "I am bigger than you.",
+    "start_time": 59.76,
+    "end_time": 61.8,
+    "duration": 2.04
+  },
+  {
+    "id": 18,
+    "text": "He says.",
+    "start_time": 62.26,
+    "end_time": 62.86,
+    "duration": 0.6
+  },
+  {
+    "id": 19,
+    "text": "And I am stronger than you too.",
+    "start_time": 63.68,
+    "end_time": 65.9,
+    "duration": 2.22
+  },
+  {
+    "id": 20,
+    "text": "I can do what I want.",
+    "start_time": 66.62,
+    "end_time": 68.2,
+    "duration": 1.58
+  },
+  {
+    "id": 21,
+    "text": "Now buzz off.",
+    "start_time": 68.6,
+    "end_time": 69.58,
+    "duration": 0.98
+  },
+  {
+    "id": 22,
+    "text": "Mr.",
+    "start_time": 70.32,
+    "end_time": 70.96,
+    "duration": 0.64
+  },
+  {
+    "id": 23,
+    "text": "Bear sticks his paw into the beehive again and Owie.",
+    "start_time": 71.34,
+    "end_time": 79.5,
+    "duration": 8.16
+  },
+  {
+    "id": 24,
+    "text": "The bee stings him right on his nose.",
+    "start_time": 80.5,
+    "end_time": 83.04,
+    "duration": 2.54
+  },
+  {
+    "id": 25,
+    "text": "My nose, my nose.",
+    "start_time": 84.3,
+    "end_time": 86.56,
+    "duration": 2.26
+  },
+  {
+    "id": 26,
+    "text": "I am so angry.",
+    "start_time": 87.0,
+    "end_time": 89.22,
+    "duration": 2.22
+  },
+  {
+    "id": 27,
+    "text": "Growls Mr.",
+    "start_time": 90.08,
+    "end_time": 90.9,
+    "duration": 0.82
+  },
+  {
+    "id": 28,
+    "text": "Bear.",
+    "start_time": 91.08,
+    "end_time": 91.2,
+    "duration": 0.12
+  },
+  {
+    "id": 29,
+    "text": "He finds a big stick.",
+    "start_time": 92.18,
+    "end_time": 94.38,
+    "duration": 2.2
+  },
+  {
+    "id": 30,
+    "text": "He tries to hit the bee.",
+    "start_time": 95.5,
+    "end_time": 97.0,
+    "duration": 1.5
+  },
+  {
+    "id": 31,
+    "text": "He swings and he swings.",
+    "start_time": 97.88,
+    "end_time": 99.42,
+    "duration": 1.54
+  },
+  {
+    "id": 32,
+    "text": "But the bee is too fast.",
+    "start_time": 100.06,
+    "end_time": 101.66,
+    "duration": 1.6
+  },
+  {
+    "id": 33,
+    "text": "Mr.",
+    "start_time": 102.58,
+    "end_time": 103.3,
+    "duration": 0.72
+  },
+  {
+    "id": 34,
+    "text": "Bear gets angrier and angrier.",
+    "start_time": 103.62,
+    "end_time": 105.88,
+    "duration": 2.26
+  },
+  {
+    "id": 35,
+    "text": "I will squash you.",
+    "start_time": 107.62,
+    "end_time": 110.46,
+    "duration": 2.84
+  },
+  {
+    "id": 36,
+    "text": "Come here.",
+    "start_time": 110.74,
+    "end_time": 111.7,
+    "duration": 0.96
+  },
+  {
+    "id": 37,
+    "text": "The bee flies back into the beehive.",
+    "start_time": 111.7,
+    "end_time": 114.82,
+    "duration": 3.12
+  },
+  {
+    "id": 38,
+    "text": "Oh, no, you are trapped.",
+    "start_time": 115.72,
+    "end_time": 118.56,
+    "duration": 2.84
+  },
+  {
+    "id": 39,
+    "text": "yells Mr.",
+    "start_time": 119.2,
+    "end_time": 119.9,
+    "duration": 0.7
+  },
+  {
+    "id": 40,
+    "text": "Bear.",
+    "start_time": 120.0,
+    "end_time": 120.14,
+    "duration": 0.14
+  },
+  {
+    "id": 41,
+    "text": "He swings his stick at the beehive.",
+    "start_time": 121.1,
+    "end_time": 123.38,
+    "duration": 2.28
+  },
+  {
+    "id": 42,
+    "text": "Smash, smash, smash.",
+    "start_time": 124.04,
+    "end_time": 126.0,
+    "duration": 1.96
+  },
+  {
+    "id": 43,
+    "text": "He smashes it to pieces.",
+    "start_time": 126.76,
+    "end_time": 128.56,
+    "duration": 1.8
+  },
+  {
+    "id": 44,
+    "text": "Then he hears a strange sound.",
+    "start_time": 129.64,
+    "end_time": 132.09,
+    "duration": 2.45
+  },
+  {
+    "id": 45,
+    "text": "It gets louder and louder.",
+    "start_time": 133.24,
+    "end_time": 135.54,
+    "duration": 2.3
+  },
+  {
+    "id": 46,
+    "text": "Thousands of bees fly out of the smashed beehive.",
+    "start_time": 143.0,
+    "end_time": 146.66,
+    "duration": 3.66
+  },
+  {
+    "id": 47,
+    "text": "They fly around Mr.",
+    "start_time": 147.4,
+    "end_time": 148.94,
+    "duration": 1.54
+  },
+  {
+    "id": 48,
+    "text": "Bear's head.",
+    "start_time": 149.1,
+    "end_time": 149.72,
+    "duration": 0.62
+  },
+  {
+    "id": 49,
+    "text": "They sting him on his ear.",
+    "start_time": 152.54,
+    "end_time": 155.12,
+    "duration": 2.58
+  },
+  {
+    "id": 50,
+    "text": "They sting him on his elbow.",
+    "start_time": 157.26,
+    "end_time": 159.52,
+    "duration": 2.26
+  },
+  {
+    "id": 51,
+    "text": "They chase Mr.",
+    "start_time": 160.32,
+    "end_time": 161.46,
+    "duration": 1.14
+  },
+  {
+    "id": 52,
+    "text": "Bear through the forest.",
+    "start_time": 161.68,
+    "end_time": 162.64,
+    "duration": 0.96
+  },
+  {
+    "id": 53,
+    "text": "They sting him on his arms, his legs, his hands, and especially on his nose.",
+    "start_time": 163.18,
+    "end_time": 169.72,
+    "duration": 6.54
+  },
+  {
+    "id": 54,
+    "text": "Mr.",
+    "start_time": 172.14,
+    "end_time": 172.82,
+    "duration": 0.68
+  },
+  {
+    "id": 55,
+    "text": "Bear runs all the way home and slams the door shut.",
+    "start_time": 173.02,
+    "end_time": 176.5,
+    "duration": 3.48
+  },
+  {
+    "id": 56,
+    "text": "Bam!",
+    "start_time": 177.2,
+    "end_time": 177.48,
+    "duration": 0.28
+  },
+  {
+    "id": 57,
+    "text": "Then he hears a voice behind him.",
+    "start_time": 179.38,
+    "end_time": 181.88,
+    "duration": 2.5
+  },
+  {
+    "id": 58,
+    "text": "It's Mrs.",
+    "start_time": 182.68,
+    "end_time": 183.5,
+    "duration": 0.82
+  },
+  {
+    "id": 59,
+    "text": "Bear.",
+    "start_time": 183.8,
+    "end_time": 183.9,
+    "duration": 0.1
+  },
+  {
+    "id": 60,
+    "text": "You did it again, didn't you?",
+    "start_time": 184.8,
+    "end_time": 186.66,
+    "duration": 1.86
+  },
+  {
+    "id": 61,
+    "text": "She says, You lost your temper.",
+    "start_time": 187.16,
+    "end_time": 189.68,
+    "duration": 2.52
+  },
+  {
+    "id": 62,
+    "text": "Yes.",
+    "start_time": 190.76,
+    "end_time": 191.44,
+    "duration": 0.68
+  },
+  {
+    "id": 63,
+    "text": "He says as he cries and counts his bee stings.",
+    "start_time": 192.22,
+    "end_time": 196.0,
+    "duration": 3.78
+  },
+  {
+    "id": 64,
+    "text": "Here's the bee sting medicine, says Mrs.",
+    "start_time": 197.48,
+    "end_time": 200.18,
+    "duration": 2.7
+  },
+  {
+    "id": 65,
+    "text": "Bear.",
+    "start_time": 200.44,
+    "end_time": 200.6,
+    "duration": 0.16
+  },
+  {
+    "id": 66,
+    "text": "Also, we have honey in the cupboard.",
+    "start_time": 200.6,
+    "end_time": 203.56,
+    "duration": 2.96
+  },
+  {
+    "id": 67,
+    "text": "It's behind the flower.",
+    "start_time": 204.24,
+    "end_time": 205.5,
+    "duration": 1.26
+  },
+  {
+    "id": 68,
+    "text": "Moral.",
+    "start_time": 208.5,
+    "end_time": 209.18,
+    "duration": 0.68
+  },
+  {
+    "id": 69,
+    "text": "A hot temper always gets you into trouble.",
+    "start_time": 209.84,
+    "end_time": 212.88,
+    "duration": 3.04
+  }
+]
